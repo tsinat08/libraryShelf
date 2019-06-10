@@ -17,19 +17,29 @@
     <favorites_list name="LibraryShelf" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shelf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="62" column="32" lean-forward="true" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+            <state>
+              <folding>
+                <element signature="n#Media#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/schoolCatalogue.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+              <folding>
+                <element signature="n#School#0" />
+                <element signature="n#Primary#0" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -116,7 +126,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560028690210</updated>
-      <workItem from="1560028691382" duration="5204000" />
+      <workItem from="1560028691382" duration="12626000" />
+      <workItem from="1560132677005" duration="1107000" />
     </task>
     <task id="LOCAL-00001" summary="first entry">
       <created>1560029838622</created>
@@ -139,11 +150,25 @@
       <option name="project" value="LOCAL" />
       <updated>1560049568021</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding new js">
+      <created>1560049615199</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560049615199</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" complete">
+      <created>1560056194772</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560056194772</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5204000" />
+    <option name="totallyTimeSpent" value="13733000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -156,14 +181,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="560" y="0" width="978" height="856" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" sideWeight="0.5010142" side_tool="true" weight="0.24920467" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989858" visible="true" weight="0.24920467" />
       <window_info id="Structure" order="1" sideWeight="0.5010142" side_tool="true" weight="0.24920467" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" weight="0.3292011" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.4994698" visible="true" weight="0.3292011" />
-      <window_info active="true" anchor="bottom" id="Event Log" sideWeight="0.50053024" side_tool="true" visible="true" weight="0.3292011" />
+      <window_info id="Favorites" order="2" sideWeight="0.5010142" side_tool="true" weight="0.24920467" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -171,6 +193,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32093665" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3292011" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49840933" weight="0.3292011" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159067" side_tool="true" weight="0.3292011" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -182,18 +208,30 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first entry" />
     <MESSAGE value="complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete" />
+    <MESSAGE value="adding new js" />
+    <MESSAGE value=" complete" />
+    <option name="LAST_COMMIT_MESSAGE" value=" complete" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/shelf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="62" column="32" lean-forward="true" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+        <state>
+          <folding>
+            <element signature="n#Media#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/schoolCatalogue.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <element signature="n#School#0" />
+            <element signature="n#Primary#0" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
